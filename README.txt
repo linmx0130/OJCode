@@ -7,4 +7,5 @@ Now it included my code on:
 	XMUOJ(acm.xmu.edu.cn) - Xiamen University 
 	Tsinsen(tsinsen.com) - Tsinsen Online Automatic Judge System
 	ZOJ(acm.zju.edu.cn) - Zhejiang University Online Judge
+	UVa(uva.onlinejudge.org) - Online judge of Universidad de Valladolid
 All the code is published in public domain. So you can use them in the way you like.

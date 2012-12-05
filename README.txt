@@ -8,4 +8,5 @@ Now it included my code on:
 	Tsinsen(tsinsen.com) - Tsinsen Online Automatic Judge System
 	ZOJ(acm.zju.edu.cn) - Zhejiang University Online Judge
 	UVa(uva.onlinejudge.org) - Online judge of Universidad de Valladolid
+	LA(livearchive.onlinejudge.org) - ACM/ICPC Live Archive
 All the code is published in public domain. So you can use them in the way you like.

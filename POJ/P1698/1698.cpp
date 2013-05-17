@@ -129,7 +129,7 @@ void Solve()
 }
 int main()
 {
-	freopen("1698.in","r",stdin);
+	//freopen("1698.in","r",stdin);
 	//freopen("1698.i","r",stdin);
 	int T;
 	scanf("%d",&T);

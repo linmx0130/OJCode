@@ -10,4 +10,5 @@ Now it included my code on:
 	UVa(uva.onlinejudge.org) - Online judge of Universidad de Valladolid
 	LA(livearchive.onlinejudge.org) - ACM/ICPC Live Archive
 	HDU(acm.hdu.edu.cn) - Hangzhou Dianzi University Online Judge
+	WikiOI(wikioi.com) - Wikioi Judge System
 All the code is published in public domain. So you can use them in the way you like.

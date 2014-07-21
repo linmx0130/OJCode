@@ -12,4 +12,5 @@ Now it included my code on:
 	HDU(acm.hdu.edu.cn) - Hangzhou Dianzi University Online Judge
 	WikiOI(wikioi.com) - Wikioi Judge System
 	HOJ(acm.hit.edu.cn) - HIT ACM/ICPC Group Online Judge
+	SPOJ(www.spoj.com) - Sphere Online Judge
 All the code is published in public domain. So you can use them in the way you like.
